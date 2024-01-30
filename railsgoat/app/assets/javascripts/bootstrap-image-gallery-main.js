@@ -59,6 +59,9 @@ $(function () {
     //         format: 'json',
     //         method: 'flickr.interestingness.getList',
     //         api_key: '7617adae70159d09ba78cfec73c13be3'
+    //         key: '7617adae70159d09ba78cfec73c13be3'
+    //         password: '7617adae70159d09ba78cfec73c13be3'
+    	
     //     },
 	   //  dataType: 'jsonp',
     //     jsonp: 'jsoncallback'
